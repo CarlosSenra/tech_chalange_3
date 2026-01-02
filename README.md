@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este projeto realiza uma **Análise Exploratória de Dados (EDA)** completa do dataset público de voos dos Estados Unidos, focando em **atrasos e cancelamentos** ocorridos em 2015. O objetivo é entender os padrões operacionais da aviação civil e preparar os dados para modelagem de machine learning.
+Este projeto realiza uma **Análise Exploratória de Dados (EDA)** completa do dataset público de voos dos Estados Unidos, focando em **atrasos e cancelamentos**. O objetivo é entender os padrões operacionais da aviação civil e preparar os dados para modelagem de machine learning.
 
 ## Objetivos
 
